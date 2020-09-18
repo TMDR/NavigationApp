@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="heading">Heading:</string>
+    <string name="degrees"> degrees</string>
+    <string name="defaultheading">Heading: 0.0</string>
+    <string name="saveloc">save location</string>
+    <string name="choosedes">choose a destination</string>
+    <string name="title_activity_waypointlist">waypointlist</string>
+    <string name="distance"> distance:</string>
+</resources>
